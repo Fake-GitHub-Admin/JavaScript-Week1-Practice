@@ -1,1 +1,1 @@
-# JavaScript-Daily-Practice
+# HTML/CSS/JavaScript-Daily-Practice
