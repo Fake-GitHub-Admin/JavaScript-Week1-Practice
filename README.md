@@ -4,3 +4,5 @@ Weekly Custom Code Challenge just to help brush up on my coding skills and have 
 Thanks for checking out my code. 
 
 Edit 3/20: I was able to get the code finanly running there will be a screenshot uploaded to point all the mistakes, I will add on more to the Javascript Code by the end of the week (the deadline: 3/26 for this challenge to finish) as well. 
+
+Edit 3/21: All about add ons to my current code
