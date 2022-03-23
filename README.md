@@ -5,4 +5,6 @@ Thanks for checking out my code.
 
 Edit 3/20: I was able to get the code finanly running there will be a screenshot uploaded to point all the mistakes, I will add on more to the Javascript Code by the end of the week (the deadline: 3/26 for this challenge to finish) as well. 
 
-Edit 3/21: All about add ons to my current code
+Edit 3/21: All about add ons to my current code, patched up the if statement conditional reaction as well as tunning up a bit the conditions
+
+Edit 3/22: 
