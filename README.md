@@ -7,4 +7,11 @@ Edit 3/20: I was able to get the code finanly running there will be a screenshot
 
 Edit 3/21: All about add ons to my current code, patched up the if statement conditional reaction as well as tunning up a bit the conditions
 
-Edit 3/22: 
+Edit 3/22: added Gender information for each subject, still looking for a solution to that list problem in the last console 
+
+
+
+
+
+
+3/26: Last day of this Challenge 
