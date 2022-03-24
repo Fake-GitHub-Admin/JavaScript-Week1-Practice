@@ -16,6 +16,12 @@ Code: "console.log(OriginallistOfPeople({Name: "Jefferson Bruke Jr", YesOrNoForC
 
 The function is not getting to Jodi Alba's information I need to figure out what is causing this, I already switched the returns (known to immediately exit a certain action usually for loops), to console.log() located at the if and else statments - Asking for advice from good friends of mine. 
 
+3/24:
+Line 52: Multiple Individuals in one line of code - resolved
+//In order for this to work, first the objects can't be seperated from one another when this happens I need to reassign different object keys which would complicate things
+//console.log(OriginallistOfPeople({Name: "Jefferson Bruke Jr", YesOrNoForCriminal:"Y", Gender: 'Male', Name: "Jodi Alba", YesOrNoForCriminal: "N", Gender: 'Male'}));
+
+Also added an else if statment tuned up the conditions a bit final additions until due date then this side challenge is declared over. 
 
 
 
