@@ -23,6 +23,8 @@ Line 52: Multiple Individuals in one line of code - resolved
 
 Also added an else if statment tuned up the conditions a bit final additions until due date then this side challenge is declared over. 
 
-
+3/25: After taking another look at the code, it seems that everything I want to run is running the way it should hence I am done.  I will upload it under the name "Final Javascript Practice Code of Week 1" 
 
 3/26: Last day of this Challenge 
+
+Quick Look into the Future: CSS/C++ is for next week, or other languages, I will look more into it on 3/26 and make a move on 3/27
